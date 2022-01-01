@@ -7,6 +7,8 @@ Bootstrap-Navbar:
 
 
 - For small screen
+
+
 ![Image alt](https://github.com/OleksandrPrudyvus/Website-using-Bootstrap/blob/main/WebSite/img/ForSmallpng.png)
 
 
