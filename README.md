@@ -1,11 +1,12 @@
 # Website-using-Bootstrap
 The site was created in the process of studying at the university using HTML5, CSS3 and Bootstarp4
 Bootstrap-Navbar:
--For big screen
+- For big screen
+
 ![Image alt](https://github.com/OleksandrPrudyvus/Website-using-Bootstrap/blob/main/WebSite/img/ForBIG.png)
 
 
--For small screen
+- For small screen
 ![Image alt](https://github.com/OleksandrPrudyvus/Website-using-Bootstrap/blob/main/WebSite/img/ForSmallpng.png)
 
 
